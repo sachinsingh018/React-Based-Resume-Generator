@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+    .OpacityImage img {
+      width: 100%;
+      opacity: 0.95;
+    }
+}
